@@ -35,7 +35,7 @@ body {
 }
 
 a {
-    color: #062413;
+    color: hsl(148, 23%, 89%);
     text-decoration: none !important;
     outline: none !important;
     -webkit-transition: all .3s ease-in-out;
@@ -57,7 +57,7 @@ h6 {
     padding: 0 0 10px 0;
     font-weight: normal;
     line-height: normal;
-    color: #111111;
+    color: #bcabab;
     margin: 0
 }
 
@@ -100,7 +100,7 @@ h3 a,
 h4 a,
 h5 a,
 h6 a {
-    color: #0b0202;
+    color: #cfbfbf;
     text-decoration: none!important;
     opacity: 1
 }
@@ -125,7 +125,7 @@ p {
 }
 
 a {
-    color: #222222;
+    color: #ddbfbf;
     text-decoration: none;
     outline: none !important;
 }
@@ -520,6 +520,11 @@ a:hover {
 #my_slider a.carousel-control-next {
     right: 0px;
     top: 40px;
+    /* <h4 class="shirt_text">Boho colar short Sleeve…</h4>
+    <p class="price_text">Start Price  <span style="color: #262626;">$50</span></p>
+    <div class="electronic_img"><img src="images/Boho Collar Short Sleeve….jpeg"></div>
+    <div class="btn_main">
+       <div class="buy_bt"><a href="#">Buy Now</a></div> */
 }
 
 #my_slider a.carousel-control-prev {
@@ -560,7 +565,7 @@ a:hover {
 .fashion_taital {
     width: 100%;
     font-size: 40px;
-    color: #30302e;
+    color: blanchedalmond;
     text-align: center;
     font-weight: bold;
 }
@@ -572,10 +577,10 @@ a:hover {
 
 .box_main {
     width: 100%;
-    background-color: #ffffff;
+    background-color:#fff;
     height: auto;
     padding: 20px;
-    box-shadow: 0px 0 30px 10px #f0f0f0;
+    box-shadow: 0px 0 30px 10px hsl(0, 14%, 90%);
     margin-bottom: 20px;
 }
 
@@ -678,7 +683,7 @@ a:hover {
 /* fashion section end */
 
 
-/* electronic section start */
+/* casual wear start */
 
 .electronic_img {
     width: 100%;
@@ -802,7 +807,7 @@ a:hover {
         transform: rotate(360deg);
     }
 }
-
+.container
 
 /* loader bar css end */
 

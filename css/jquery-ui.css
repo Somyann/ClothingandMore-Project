@@ -436,9 +436,10 @@ button.ui-button::-moz-focus-inner {
 .ui-datepicker-multi .ui-datepicker-buttonpane {
 	clear: left;
 }
-.ui-datepicker-row-break {
+.ui-datepicker-row-break 
+{
 	clear: both;
-	width: 100%;
+	width: 1./9-print_comb  cat -10%;
 	font-size: 0;
 }
 
