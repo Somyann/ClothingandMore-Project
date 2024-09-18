@@ -1,4 +1,6 @@
 Clothingandmore - E-commerce Website Project
+![clothingandmore image](images/Screenshot%20Portfolio%20project.png)
+![images](images/portofolio%20project.png)
 
 Overview: "Clothingandmore" is a fully responsive e-commerce website designed to offer a seamless shopping experience for adult fashion enthusiasts. The platform allows users to browse,order,purchase  or sew a wide variety of male and female clothing, catering to diverse styles and preferences on both native and english . The project was developed using HTML, CSS, JavaScript, and a backend framework to handle dynamic content and user interactions.
 
