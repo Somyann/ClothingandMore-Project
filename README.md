@@ -60,22 +60,27 @@ Managing the state in React.js was particularly challenging as I had to ensure t
 
 As a solo developer, the most difficult non-technical challenge I faced was managing my time and workload effectively. Juggling multiple responsibilities, including frontend design, backend development, and integration tasks, required a high level of discipline and organization. Without a team to share the workload, every task, from coding to testing and debugging, fell solely on my shoulders. This made it crucial to prioritize tasks and set realistic deadlines to avoid burnout and ensure steady progress.
 
-**.**Another significant challenge was maintaining motivation and focus throughout the project. Working alone can sometimes lead to feelings of isolation, and without regular feedback or collaboration, it was easy to second-guess decisions or lose sight of the overall project goals. To overcome this, I set up a structured work schedule, broke down tasks into manageable chunks, and took regular breaks to maintain a healthy work-life balance. Additionally, I sought feedback from online communities and forums, which provided valuable insights and helped me stay on track. This experience reinforced the importance of self-management, perseverance, and seeking external support when working solo on complex projects.
+. Another significant challenge was maintaining motivation and focus throughout the project. Working alone can sometimes lead to feelings of isolation, and without regular feedback or collaboration, it was easy to second-guess decisions or lose sight of the overall project goals. To overcome this, I set up a structured work schedule, broke down tasks into manageable chunks, and took regular breaks to maintain a healthy work-life balance. Additionally, I sought feedback from online communities and forums, which provided valuable insights and helped me stay on track. This experience reinforced the importance of self-management, perseverance, and seeking external support when working solo on complex projects.
 
 **AUTHORS**
-**.**CHISOM Ann ONWUDINJO
 
-__Socials__
+CHISOM Ann ONWUDINJO
 
-[LinkedIn](https://www.linkedin.com/in/chisom-anastasia-91109019b/)
-[Github](https://www.github.com/in/Somyann)
+__SOCIALS__
+
+1. [LinkedIn](https://www.linkedin.com/in/chisom-anastasia-91109019b/)
+
+2. [Github](https://www.github.com/in/Somyann)
 
 
 
 **RESOURCES**
 **.[W3schools](https://www.w3schools.com/)**
+
 **.[tutorialspoint](https://www.tutorialspoint.com/)**
-**.[stackoverflow](https://stackoverflow.com/)for questions and solutions.**
+
+**.[stackoverflow](https://stackoverflow.com/)
+for questions and solutions.**
 
 
 
