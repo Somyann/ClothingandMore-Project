@@ -37,14 +37,6 @@ To adapt to these challenges, I had to revisit my initial plan, incorporating ad
 Unexpected non-technical challenges included time management, as resolving these issues took longer than anticipated, affecting the project timeline. On the technical side, integrating responsive design with dynamic content, ensuring cross-browser compatibility, and maintaining code efficiency were also challenging aspects of the project.
 
 
-**Communication and collaboration**
-
-Discuss any help you’ve received or provide from/to peers, staff, mentors, etc.
-
-A huge shoutout to my friends at the hub for their invaluable support! They introduced me to essential tools like Bootstrap, jQuery, JavaScript, and CSS, making my first portfolio project, "Clothingandmore," a success. Their encouragement and guidance were instrumental in bringing this e-commerce site to life!
-
-
-
 
 <!-- Weekly Progress Assessment
 
@@ -62,6 +54,10 @@ As a solo developer, the most difficult non-technical challenge I faced was mana
 
 . Another significant challenge was maintaining motivation and focus throughout the project. Working alone can sometimes lead to feelings of isolation, and without regular feedback or collaboration, it was easy to second-guess decisions or lose sight of the overall project goals. To overcome this, I set up a structured work schedule, broke down tasks into manageable chunks, and took regular breaks to maintain a healthy work-life balance. Additionally, I sought feedback from online communities and forums, which provided valuable insights and helped me stay on track. This experience reinforced the importance of self-management, perseverance, and seeking external support when working solo on complex projects.
 
+**Communication and collaboration**
+
+A huge shoutout to my friends at the hub for their invaluable support! They introduced me to essential tools like Bootstrap, jQuery, JavaScript, and CSS, making my first portfolio project, "Clothingandmore," a success. Their encouragement and guidance were instrumental in bringing this e-commerce site to life!
+
 **AUTHORS**
 
 CHISOM Ann ONWUDINJO
@@ -75,12 +71,13 @@ __SOCIALS__
 
 
 **RESOURCES**
+
 **.[W3schools](https://www.w3schools.com/)**
 
 **.[tutorialspoint](https://www.tutorialspoint.com/)**
 
-**.[stackoverflow](https://stackoverflow.com/)
-for questions and solutions.**
+**[stackoverflow](https://stackoverflow.com/)
+for questions and solution.**
 
 
 
